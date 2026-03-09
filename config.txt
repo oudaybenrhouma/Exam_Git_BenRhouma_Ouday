@@ -1,1 +1,2 @@
 Description du projet: Application de gestion utilisateur.
+Nouvelle ligne de configuration.
